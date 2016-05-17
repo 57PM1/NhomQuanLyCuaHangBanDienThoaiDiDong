@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\QuanLyCuaHang\EntityClass\bin\Debug\EntityClass.dll
+C:\Users\Administrator\Desktop\QuanLyCuaHang\EntityClass\bin\Debug\EntityClass.pdb
+C:\Users\Administrator\Desktop\QuanLyCuaHang\EntityClass\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\QuanLyCuaHang\EntityClass\obj\Debug\EntityClass.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QuanLyCuaHang\EntityClass\obj\Debug\EntityClass.dll
+C:\Users\Administrator\Desktop\QuanLyCuaHang\EntityClass\obj\Debug\EntityClass.pdb
